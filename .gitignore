@@ -1,0 +1,21 @@
+# Claude / agent settings
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Environment / secrets (none should exist in this repo)
+.env
+.env.local
+
+# Logs & build outputs
+*.log
+logs/
+dist/
+build/
